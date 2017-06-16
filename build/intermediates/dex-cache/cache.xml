@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/absolutelysaurabh/Desktop/Hapo-HAPO-Rishabh/library/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fb25988981c12cda707d2ebf55ec44fcbdef37c6">
+        <dex dex="/home/absolutelysaurabh/Desktop/Hapo-HAPO-Rishabh/app/build/intermediates/pre-dexed/debug/classes_cbe1880b30bad8669f84b4a2a663967717ef0773.jar" />
+    </item>
+
+</items>
